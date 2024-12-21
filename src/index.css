@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+  background-image: url('./assets/matrix.gif');
+  backdrop-filter: blur(16px);
+}
